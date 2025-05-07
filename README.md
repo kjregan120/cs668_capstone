@@ -20,3 +20,6 @@ o	Its cumulative annual growth rate is 23%, the highest of the observed populati
 o	Its monthly local wage cost is the lowest of the observed population
 o	Its median home value is among the lowest in the observed population
 Principal component analysis identified 4 distinct groups (Accelerating, Moderate Growth, Flat and Declining)
+
+#### Usage:
+Nearly all of the analysis was conducting using Google Colab which is a free python interpreter. However, to access it you will need a gmail account. 
