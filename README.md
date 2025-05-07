@@ -25,9 +25,12 @@ Principal component analysis identified 4 distinct groups (Accelerating, Moderat
 Nearly all of the analysis was conducting using Google Colab which is a free python interpreter. However, to access it you will need a gmail account. 
 
 
-#### Description of Files
+### Description of Files
 #### TEU Growth Rates.IPYNB 
-is the Colab file that walks through the python scripts needed for the presentation. 
+The Colab file that walks through the python scripts needed for the presentation. 
 
 #### TOP_90_Ports_Uploaded 
-is the 90 ports where TEU information was obtained. It's the input file needed for the 
+The 90 ports where TEU information was obtained. It's the input file needed for the 
+
+#### Port_TEU_Output.csv
+An output of the dataset which includes the results of PCA, Classification, and slope. 
